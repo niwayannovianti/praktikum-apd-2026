@@ -100,5 +100,5 @@ else:
     print(f"Total Porsi : {total_porsi} porsi")
     print(f"Penerima Manfaat : {penerima_manfaat} orang")
     print(f"Bonus : {bonus}")
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("Makanan Dibagikan Secara Gratis Sehingga Tidak Ada Harga dan Pembayaran") 
