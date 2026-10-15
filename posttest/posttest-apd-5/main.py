@@ -10,7 +10,7 @@ while True:
         os.system('clear')
 
     print("\n==========================")
-    print("  SISTEM POSYANDU BALITA  ")
+    print("   SISTEM POSYANDU BALITA   ")
     print("==========================")
     print("1. Tambah Data Balita")
     print("2. Lihat Data Balita")
