@@ -16,7 +16,7 @@ while maksimal_login > 0:
             print("Anda telah salah memasukkan password sebanyak 3 kali.")
             print("Akses ditolak. Program berhenti.")
         continue
-    
+
     password = input("Masukkan Password: ")
     if password == password_benar:
         print("\nLogin berhasil! Masuk ke sistem...")
@@ -42,15 +42,15 @@ if terotentikasi:
         else:
             os.system('clear')
 
-        print("\n==========================")
+        print("\n===========================")
         print("   SISTEM POSYANDU BALITA   ")
-        print("==========================")
+        print("===========================")
         print("1. Tambah Data Balita")
         print("2. Lihat Data Balita")
         print("3. Ubah Data Balita")
         print("4. Hapus Data Balita")
         print("5. Keluar")
-        print("==========================")
+        print("===========================")
 
         pilihan = input("Pilih Menu (1-5): ")
 
