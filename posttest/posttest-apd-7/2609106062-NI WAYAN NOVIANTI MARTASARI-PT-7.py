@@ -12,7 +12,7 @@ def bersihkan_layar():
         os.system('clear')
 
 def tampilkan_menu_utama():
-    print("\n===========================")
+    print("\n============================")
     print("   SISTEM POSYANDU BALITA   ")
     print("===========================")
     print("1. Tambah Data Balita")
